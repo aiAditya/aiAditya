@@ -22,12 +22,12 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SinghAditya2807&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=aiAditya&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->### Hi there 👋
 
 <!--
-**SinghAditya2807/SinghAditya2807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aiAditya/aiAditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
